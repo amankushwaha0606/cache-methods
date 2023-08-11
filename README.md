@@ -19,7 +19,7 @@ In the screenshot, you can see files are retrieved from ngsq-worker. Time is in 
 # Custom method
 
 ### NOTE:
-I created two functions inside CacheService for the handling of the backend. You can replace these two functions ( getHashsFromServer() and backendDataCorrespondingToHash() ) with your custom backend or server logic. You can also change it in storage manually if you want to see chnages. 
+I created two functions inside CacheService for the handling of the backend. You can replace these two functions ( getHashsFromServer() and backendDataCorrespondingToHash() ) with your custom backend or server logic. You can also change it in storage manually if you want to see changes. 
 
 To see this in detail, see the docs, https://docs.google.com/document/d/1UAMwRsTfjOzQt1t-NcHtUj0ZuO5CBrlLeUCxlsTlVv0/edit.
 
