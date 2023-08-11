@@ -20,18 +20,6 @@ In the screenshot, you can see files are retrieved from ngsq-worker. Time is in 
 
 To see this in detail, see the docs, https://docs.google.com/document/d/1UAMwRsTfjOzQt1t-NcHtUj0ZuO5CBrlLeUCxlsTlVv0/edit.
 
-Note: If you are cloning this project.
-
-Angular CLI: 16.1.8
-Node: 18.14.0
-Package Manager: npm 9.3.1
-OS: linux x64
-
-Angular: 16.2.0
-... animations, common, compiler, compiler-cli, core, forms
-... platform-browser, platform-browser-dynamic, router
-... service-worker
-
 Package                         Version
 ---------------------------------------------------------
 @angular-devkit/architect       0.1602.0
@@ -43,3 +31,15 @@ Package                         Version
 rxjs                            7.8.1
 typescript                      5.1.6
 zone.js                         0.13.1
+
+
+
+Angular CLI: 16.1.8
+Node: 18.14.0
+Package Manager: npm 9.3.1
+OS: linux x64
+
+Angular: 16.2.0
+... animations, common, compiler, compiler-cli, core, forms
+... platform-browser, platform-browser-dynamic, router
+... service-worker
